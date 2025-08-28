@@ -406,7 +406,7 @@ const About = () => {
                 </h2>
                 <div className="space-y-4 text-muted-foreground leading-relaxed">
                   <p>
-                    Founded in 2016 by Jagdish R. Bajaj, JRB Gold began as a small family jewelry 
+                    Founded in 2016, JRB Gold began as a small family jewelry 
                     business with a simple mission: provide genuine, high-quality gold and silver 
                     jewelry at fair prices with complete transparency.
                   </p>
