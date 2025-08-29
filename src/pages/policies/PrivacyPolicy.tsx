@@ -99,7 +99,7 @@ export default function PrivacyPolicy() {
         <h2 className="text-2xl font-semibold mt-8 mb-4">Contact Us</h2>
         <p className="mb-2">If you have questions or concerns about your data, please contact:</p>
         <address className="not-italic mb-6">
-          JRB Gold<br />
+          JRB Gold Pvt Ltd<br />
           Address - No: 1539, 1st Floor,<br />
           Soundar Complex, Vellore Road<br />
           Near Anna Arch<br />
