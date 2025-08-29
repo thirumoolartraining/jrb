@@ -33,7 +33,7 @@ const About = () => {
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div>
             <p className="mb-4 text-lg">
-              Founded in 2016, JRB Gold has grown from a small family-owned business to a trusted name in fine jewelry.
+              Founded in 2016, JRB Gold Pvt Ltd has grown from a small family-owned business to a trusted name in fine jewelry.
               Our commitment to quality and craftsmanship has been the cornerstone of our success.
             </p>
             <p className="mb-6">
@@ -52,7 +52,7 @@ const About = () => {
             </div>
           </div>
           <div className="relative rounded-lg overflow-hidden">
-            <img src={craftsmanshipImage} alt="JRB Gold Craftsmanship" className="w-full h-auto rounded-lg shadow-lg" />
+            <img src={craftsmanshipImage} alt="JRB Gold Pvt Ltd Craftsmanship" className="w-full h-auto rounded-lg shadow-lg" />
           </div>
         </div>
       </div>
@@ -122,7 +122,7 @@ const About = () => {
           <div className="order-2 md:order-1">
             <h3 className="text-2xl font-semibold mb-4">Handcrafted Excellence</h3>
             <p className="mb-6">
-              Each JRB Gold piece is meticulously handcrafted by our master artisans who bring decades of experience and passion to their work. 
+              Each JRB Gold Pvt Ltd piece is meticulously handcrafted by our master artisans who bring decades of experience and passion to their work. 
               We combine traditional techniques with modern technology to create timeless designs.
             </p>
             <div className="space-y-4">
@@ -214,7 +214,7 @@ const About = () => {
           <div className="space-y-6">
             <h3 className="text-2xl font-playfair font-semibold text-gray-900">Three Generations of Excellence</h3>
             <p className="text-gray-600 leading-relaxed">
-              Since our founding in 1985, JRB Gold has been a family-owned business dedicated to the art of fine jewelry making. 
+              Since our founding in 1985, JRB Gold Pvt Ltd has been a family-owned business dedicated to the art of fine jewelry making. 
               What began as a small workshop has grown into a trusted name in the industry, known for our commitment to quality and craftsmanship.
             </p>
             <p className="text-gray-600 leading-relaxed">
@@ -300,7 +300,7 @@ const About = () => {
     }
   };
   const milestones = [
-    { year: '2016', title: 'Founded', description: 'JRB Gold established as family jewelry business' },
+    { year: '2016', title: 'Founded', description: 'JRB Gold Pvt Ltd established as family jewelry business' },
     { year: '2018', title: 'Expansion', description: 'Opened flagship store and introduced certified hallmarking' },
     { year: '2020', title: 'Innovation', description: 'Launched gold savings schemes and digital services' },
     { year: '2022', title: 'Digital Growth', description: 'E-commerce platform and online gold investments' },
@@ -348,7 +348,7 @@ const About = () => {
 
   const testimonialHighlights = [
     {
-      text: "JRB Gold has been our family's trusted jeweler for over 15 years. Their transparency and quality is unmatched.",
+      text: "JRB Gold Pvt Ltd has been our family's trusted jeweler for over 15 years. Their transparency and quality is unmatched.",
       author: "Mrs. Sharma, Loyal Customer"
     },
     {
@@ -406,7 +406,7 @@ const About = () => {
                 </h2>
                 <div className="space-y-4 text-muted-foreground leading-relaxed">
                   <p>
-                    Founded in 2016, JRB Gold began as a small family jewelry 
+                    Founded in 2016, JRB Gold Pvt Ltd began as a small family jewelry 
                     business with a simple mission: provide genuine, high-quality gold and silver 
                     jewelry at fair prices with complete transparency.
                   </p>
@@ -434,7 +434,7 @@ const About = () => {
               <div className="relative">
                 <img
                   src={craftsmanshipImage}
-                  alt="JRB Gold Craftsmanship"
+                  alt="JRB Gold Pvt Ltd Craftsmanship"
                   className="rounded-lg shadow-luxury w-full"
                 />
                 <div className="absolute -bottom-6 -right-6 bg-gradient-gold p-6 rounded-lg text-charcoal shadow-elevated">

@@ -66,7 +66,7 @@ const CreateAccount = () => {
             Create an Account
           </h2>
           <p className="mt-2 text-sm text-gray-600">
-            Join JRB Gold today and enjoy exclusive benefits
+            Join JRB Gold Pvt Ltd today and enjoy exclusive benefits
           </p>
         </div>
 

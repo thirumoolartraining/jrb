@@ -99,7 +99,7 @@ const Header = () => {
                   className="w-10 h-10 object-contain rounded-md shadow-sm"
                 />
                 <span className="font-playfair text-2xl font-bold text-foreground leading-none">
-                  JRB Gold
+                  JRB Gold Pvt Ltd
                 </span>
               </a>
             </div>
