@@ -28,7 +28,7 @@ export default function ShippingPolicy() {
         </p>
         
         <p className="mb-6">
-          At JRB Gold, we are committed to delivering your jewelry safely, securely, and within the promised timeframe. Whether it's a single ornament or a bulk wholesale consignment, every shipment is handled with utmost care, reflecting our values of transparency and trust.
+          At JRB Gold Pvt Ltd, we are committed to delivering your jewelry safely, securely, and within the promised timeframe. Whether it's a single ornament or a bulk wholesale consignment, every shipment is handled with utmost care, reflecting our values of transparency and trust.
         </p>
 
         <p className="mb-8">

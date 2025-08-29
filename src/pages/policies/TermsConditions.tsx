@@ -28,7 +28,7 @@ export default function TermsConditions() {
         </p>
         
         <p className="mb-6">
-          Welcome to JRB Gold. By accessing and using our website, store, or services, you agree to comply with and be bound by the following Terms & Conditions. These terms govern all purchases, transactions, and interactions with JRB Gold, whether in-store, online, or via our customer support channels.
+          Welcome to JRB Gold Pvt Ltd. By accessing and using our website, store, or services, you agree to comply with and be bound by the following Terms & Conditions. These terms govern all purchases, transactions, and interactions with JRB Gold Pvt Ltd, whether in-store, online, or via our customer support channels.
         </p>
         
         <p className="mb-8 font-medium">
@@ -37,7 +37,7 @@ export default function TermsConditions() {
 
         <h2 className="text-2xl font-semibold mt-8 mb-4">1. General Use</h2>
         <ul className="list-disc pl-6 mb-6 space-y-2">
-          <li>By engaging with JRB Gold, you confirm that you are at least 18 years of age or acting under the supervision of a legal guardian.</li>
+          <li>By engaging with JRB Gold Pvt Ltd, you confirm that you are at least 18 years of age or acting under the supervision of a legal guardian.</li>
           <li>You agree to use our services only for lawful purposes and in compliance with all applicable regulations.</li>
           <li>We reserve the right to refuse service, restrict access, or cancel transactions at our discretion if misuse, fraud, or policy violation is suspected.</li>
         </ul>
@@ -46,7 +46,7 @@ export default function TermsConditions() {
         <ul className="list-disc pl-6 mb-6 space-y-2">
           <li>All product images, descriptions, and weights are provided for reference. Slight variations may occur due to the handmade and natural nature of gold and silver jewelry.</li>
           <li>Prices are based on prevailing gold and silver market rates and may change daily without prior notice.</li>
-          <li>Errors in pricing or descriptions may occasionally occur; JRB Gold reserves the right to correct such errors, cancel affected orders, and issue refunds where applicable.</li>
+          <li>Errors in pricing or descriptions may occasionally occur; JRB Gold Pvt Ltd reserves the right to correct such errors, cancel affected orders, and issue refunds where applicable.</li>
           <li>For bulk or wholesale orders, minimum quantities apply, and final quotations will be provided directly to buyers.</li>
         </ul>
 
@@ -54,7 +54,7 @@ export default function TermsConditions() {
         <ul className="list-disc pl-6 mb-6 space-y-2">
           <li>Orders are confirmed only after successful payment or advance (for made-to-order/custom items).</li>
           <li>We accept major credit/debit cards, UPI, net banking, and other secure digital payment methods.</li>
-          <li>JRB Gold does not store payment information; all transactions are processed via secure third-party gateways.</li>
+          <li>JRB Gold Pvt Ltd does not store payment information; all transactions are processed via secure third-party gateways.</li>
           <li>In case of duplicate charges, errors, or unauthorized transactions, customers must report immediately for resolution.</li>
         </ul>
 
@@ -63,7 +63,7 @@ export default function TermsConditions() {
           <li>Domestic and international shipping is offered via trusted courier/logistics partners.</li>
           <li>Estimated delivery timelines will be provided at checkout or during order confirmation.</li>
           <li>Tracking details will be shared once the order is dispatched.</li>
-          <li>JRB Gold is not responsible for delays caused by third-party logistics, customs clearance, or force majeure events.</li>
+          <li>JRB Gold Pvt Ltd is not responsible for delays caused by third-party logistics, customs clearance, or force majeure events.</li>
         </ul>
 
         <h2 className="text-2xl font-semibold mt-8 mb-4">5. Custom & Personalized Orders</h2>
@@ -84,11 +84,11 @@ export default function TermsConditions() {
 
         <h2 className="text-2xl font-semibold mt-8 mb-4">7. Intellectual Property</h2>
         <p className="mb-6">
-          All content on this website—including logos, jewelry designs, product images, and text—is the intellectual property of JRB Gold. Unauthorized use, reproduction, or distribution is strictly prohibited without written consent.
+          All content on this website—including logos, jewelry designs, product images, and text—is the intellectual property of JRB Gold Pvt Ltd. Unauthorized use, reproduction, or distribution is strictly prohibited without written consent.
         </p>
 
         <h2 className="text-2xl font-semibold mt-8 mb-4">8. Limitation of Liability</h2>
-        <p className="mb-2">JRB Gold shall not be held liable for:</p>
+        <p className="mb-2">JRB Gold Pvt Ltd shall not be held liable for:</p>
         <ul className="list-disc pl-6 mb-6 space-y-2">
           <li>Indirect or consequential losses arising from product use</li>
           <li>Minor variations in product appearance or weight</li>
@@ -104,7 +104,7 @@ export default function TermsConditions() {
         <h2 className="text-2xl font-semibold mt-8 mb-4">10. Contact Us</h2>
         <p className="mb-2">For any queries, clarifications, or disputes regarding these Terms & Conditions, please reach out to:</p>
         <address className="not-italic mb-6">
-          JRB Gold<br />
+          JRB Gold Pvt Ltd<br />
           Address - No: 1539, 1st Floor,<br />
           Soundar Complex, Vellore Road<br />
           Near Anna Arch<br />

@@ -28,7 +28,7 @@ export default function PrivacyPolicy() {
         </p>
         
         <p className="mb-6">
-          At JRB Gold, your trust is our most valuable asset. Since our founding in 2016, we've built our reputation on offering genuine, high-quality gold and silver jewelry at fair prices—with honesty and transparency at the heart of every transaction. Protecting your privacy and safeguarding the information you share with us is an extension of these values.
+          At JRB Gold Pvt Ltd, your trust is our most valuable asset. Since our founding in 2016, we've built our reputation on offering genuine, high-quality gold and silver jewelry at fair prices—with honesty and transparency at the heart of every transaction. Protecting your privacy and safeguarding the information you share with us is an extension of these values.
         </p>
 
         <p className="mb-6">

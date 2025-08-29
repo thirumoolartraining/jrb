@@ -28,7 +28,7 @@ export default function CancellationRefund() {
         </p>
         
         <p className="mb-6">
-          At JRB Gold, we strive to deliver genuine, high-quality gold and silver jewelry with complete transparency. While we work hard to ensure every order meets your expectations, we recognize that occasional issues may arise. This policy outlines how cancellations, returns, and refunds are handled for retail and wholesale customers.
+          At JRB Gold Pvt Ltd, we strive to deliver genuine, high-quality gold and silver jewelry with complete transparency. While we work hard to ensure every order meets your expectations, we recognize that occasional issues may arise. This policy outlines how cancellations, returns, and refunds are handled for retail and wholesale customers.
         </p>
         
         <h2 className="text-2xl font-semibold mt-8 mb-4">Order Cancellations</h2>
@@ -98,7 +98,7 @@ export default function CancellationRefund() {
         <h2 className="text-2xl font-semibold mt-8 mb-4">Need Assistance?</h2>
         <p className="mb-4">For support with cancellations, refunds, or return claims, please contact:</p>
         <address className="not-italic mb-6">
-          JRB Gold<br />
+          JRB Gold Pvt Ltd<br />
           Address - No: 1539, 1st Floor,<br />
           Soundar Complex, Vellore Road<br />
           Near Anna Arch<br />
